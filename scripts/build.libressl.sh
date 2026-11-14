@@ -1,6 +1,6 @@
 #!/bin/sh -e
 
-LIBRESSL_VERSION="3.5.2"
+LIBRESSL_VERSION="4.4.1"
 
 mkdir -p deps
 mkdir -p deps/include
